@@ -1,0 +1,147 @@
+2026-03-05 13:05:10,013 - WARNING -  * Debugger is active!
+2026-03-05 13:05:10,018 - WARNING -  * Debugger is active!
+2026-03-05 13:05:10,021 - WARNING -  * Debugger is active!
+2026-03-05 13:05:10,029 - WARNING -  * Debugger is active!
+2026-03-05 13:05:10,045 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:05:10,045 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:05:10,045 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:05:10,045 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:05:36,270 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 13:05:36,272 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 13:05:36,350 - INFO -  * Restarting with stat
+2026-03-05 13:05:40,820 - WARNING -  * Debugger is active!
+2026-03-05 13:05:40,834 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:08:38,202 - ERROR - API Error: (1054, "Unknown column 'avg_rating' in 'field list'")
+2026-03-05 13:08:38,219 - INFO - 127.0.0.1 - - [05/Mar/2026 13:08:38] "[35m[1mGET /app-analysis/1 HTTP/1.1[0m" 500 -
+2026-03-05 13:09:05,453 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 13:09:05,453 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 13:09:05,461 - INFO -  * Restarting with stat
+2026-03-05 13:09:11,733 - WARNING -  * Debugger is active!
+2026-03-05 13:09:11,749 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:12:54,103 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 13:12:54,103 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 13:12:54,110 - INFO -  * Restarting with stat
+2026-03-05 13:13:06,668 - WARNING -  * Debugger is active!
+2026-03-05 13:13:08,209 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:13:51,108 - ERROR - API Error: (1054, "Unknown column 'avg_rating' in 'field list'")
+2026-03-05 13:13:51,108 - INFO - 127.0.0.1 - - [05/Mar/2026 13:13:51] "[35m[1mGET /app-analysis/1 HTTP/1.1[0m" 500 -
+2026-03-05 13:16:16,492 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 13:16:16,492 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 13:16:16,501 - INFO -  * Restarting with stat
+2026-03-05 13:16:20,341 - WARNING -  * Debugger is active!
+2026-03-05 13:16:20,353 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:23:21,736 - INFO -  * Detected change in 'C:\\Projects\\SentimentApp\\app.py', reloading
+2026-03-05 13:23:22,835 - INFO -  * Restarting with stat
+2026-03-05 13:23:28,549 - WARNING -  * Debugger is active!
+2026-03-05 13:23:28,558 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:23:48,471 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 13:23:48,471 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 13:23:48,474 - INFO -  * Restarting with stat
+2026-03-05 13:23:52,641 - WARNING -  * Debugger is active!
+2026-03-05 13:23:52,653 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:29:34,391 - INFO -  * Detected change in 'C:\\Projects\\SentimentApp\\app.py', reloading
+2026-03-05 13:29:34,407 - INFO -  * Detected change in 'C:\\Projects\\SentimentApp\\app.py', reloading
+2026-03-05 13:29:35,070 - INFO -  * Restarting with stat
+2026-03-05 13:29:35,076 - INFO -  * Restarting with stat
+2026-03-05 13:29:41,808 - WARNING -  * Debugger is active!
+2026-03-05 13:29:41,817 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:29:41,817 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:29:45,986 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 13:29:45,986 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 13:29:45,988 - INFO -  * Restarting with stat
+2026-03-05 13:29:49,622 - WARNING -  * Debugger is active!
+2026-03-05 13:29:49,629 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:32:14,071 - INFO -  * Detected change in 'C:\\Projects\\SentimentApp\\app.py', reloading
+2026-03-05 13:32:14,090 - INFO -  * Detected change in 'C:\\Projects\\SentimentApp\\app.py', reloading
+2026-03-05 13:32:14,139 - INFO -  * Detected change in 'C:\\Projects\\SentimentApp\\app.py', reloading
+2026-03-05 13:32:14,498 - INFO -  * Restarting with stat
+2026-03-05 13:32:14,653 - INFO -  * Restarting with stat
+2026-03-05 13:32:14,718 - INFO -  * Restarting with stat
+2026-03-05 13:32:20,460 - WARNING -  * Debugger is active!
+2026-03-05 13:32:20,460 - WARNING -  * Debugger is active!
+2026-03-05 13:32:20,462 - WARNING -  * Debugger is active!
+2026-03-05 13:32:20,471 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:32:20,471 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:32:20,471 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:32:35,278 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 13:32:35,278 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 13:32:35,278 - INFO -  * Restarting with stat
+2026-03-05 13:32:39,488 - WARNING -  * Debugger is active!
+2026-03-05 13:32:39,497 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:37:02,886 - INFO -  * Detected change in 'C:\\Projects\\SentimentApp\\app.py', reloading
+2026-03-05 13:37:03,181 - INFO -  * Detected change in 'C:\\Projects\\SentimentApp\\app.py', reloading
+2026-03-05 13:37:03,299 - INFO -  * Detected change in 'C:\\Projects\\SentimentApp\\app.py', reloading
+2026-03-05 13:37:03,612 - INFO -  * Detected change in 'C:\\Projects\\SentimentApp\\app.py', reloading
+2026-03-05 13:37:05,163 - INFO -  * Restarting with stat
+2026-03-05 13:37:05,170 - INFO -  * Restarting with stat
+2026-03-05 13:37:05,581 - INFO -  * Restarting with stat
+2026-03-05 13:37:05,633 - INFO -  * Restarting with stat
+2026-03-05 13:37:28,158 - WARNING -  * Debugger is active!
+2026-03-05 13:37:28,173 - WARNING -  * Debugger is active!
+2026-03-05 13:37:28,177 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:37:28,184 - WARNING -  * Debugger is active!
+2026-03-05 13:37:28,184 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:37:28,187 - WARNING -  * Debugger is active!
+2026-03-05 13:37:28,193 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:37:28,195 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:37:31,325 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 13:37:31,325 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 13:42:16,509 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 13:42:16,509 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 13:45:26,086 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 13:45:26,086 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 13:45:26,086 - INFO -  * Restarting with stat
+2026-03-05 13:45:29,413 - WARNING -  * Debugger is active!
+2026-03-05 13:45:29,419 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 13:52:22,608 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 13:52:22,608 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 13:53:15,177 - INFO - 127.0.0.1 - - [05/Mar/2026 13:53:15] "[33mGET / HTTP/1.1[0m" 404 -
+2026-03-05 13:53:15,463 - INFO - 127.0.0.1 - - [05/Mar/2026 13:53:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-05 13:55:26,466 - INFO - 127.0.0.1 - - [05/Mar/2026 13:55:26] "[31m[1mPOST /register HTTP/1.1[0m" 415 -
+2026-03-05 13:55:48,390 - INFO - 127.0.0.1 - - [05/Mar/2026 13:55:48] "POST /register HTTP/1.1" 200 -
+2026-03-05 13:57:32,102 - INFO - 127.0.0.1 - - [05/Mar/2026 13:57:32] "POST /login HTTP/1.1" 200 -
+2026-03-05 13:57:58,276 - ERROR - API Error: (1054, "Unknown column 'avg_rating' in 'field list'")
+2026-03-05 13:57:58,278 - INFO - 127.0.0.1 - - [05/Mar/2026 13:57:58] "[35m[1mGET /app-analysis/9 HTTP/1.1[0m" 500 -
+2026-03-05 13:58:54,275 - INFO - 127.0.0.1 - - [05/Mar/2026 13:58:54] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2026-03-05 14:05:17,112 - ERROR - API Error: (1054, "Unknown column 'avg_rating' in 'field list'")
+2026-03-05 14:05:17,122 - INFO - 127.0.0.1 - - [05/Mar/2026 14:05:17] "[35m[1mGET /app-analysis/2 HTTP/1.1[0m" 500 -
+2026-03-05 14:15:24,602 - WARNING -  * Debugger is active!
+2026-03-05 14:15:24,606 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 14:25:42,506 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 14:25:42,506 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 14:25:42,513 - INFO -  * Restarting with stat
+2026-03-05 14:25:49,330 - WARNING -  * Debugger is active!
+2026-03-05 14:25:49,360 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 14:46:50,032 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 14:46:50,033 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 14:46:50,041 - INFO -  * Restarting with stat
+2026-03-05 14:46:59,112 - WARNING -  * Debugger is active!
+2026-03-05 14:46:59,138 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 14:53:14,015 - INFO -  * Detected change in 'C:\\Projects\\SentimentApp\\app.py', reloading
+2026-03-05 14:53:14,031 - INFO -  * Detected change in 'C:\\Projects\\SentimentApp\\app.py', reloading
+2026-03-05 14:53:14,374 - INFO -  * Restarting with stat
+2026-03-05 14:53:15,006 - INFO -  * Restarting with stat
+2026-03-05 14:53:19,935 - WARNING -  * Debugger is active!
+2026-03-05 14:53:19,950 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 14:53:19,951 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 14:53:48,142 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 14:53:48,142 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-05 14:55:07,502 - WARNING -  * Debugger is active!
+2026-03-05 14:55:07,512 - INFO -  * Debugger PIN: 802-822-675
+2026-03-05 14:55:22,505 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-05 14:55:22,505 - INFO - [33mPress CTRL+C to quit[0m
